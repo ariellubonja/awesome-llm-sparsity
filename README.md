@@ -8,22 +8,27 @@ Collection of papers, algorithms, and other resources that show how sparsity eme
 | Paper | Code | Date |
 |:----|  :----: | :---:|
 |[The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers](https://arxiv.org/pdf/2210.06313.pdf) @ Google | ∅ | June-23
-|[Learn To be Efficient: Build Structured Sparsity in Large Language Models](https://arxiv.org/pdf/2402.06126.pdf) @ UIUC, CMU | ∅ | Feb-24
 |[ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models](https://arxiv.org/pdf/2310.04564.pdf) @ Apple | ∅ | Oct-23
 <br/>
 
 
-## Approximation Methods
+## Sparse Transformers
 
-| Title & Authors | Selling Point | Links |
+
+| Paper | Code | Date |
 |:----|  :----: | :---:|
-|[![Star](https://img.shields.io/github/stars/robertcsordas/moe.svg?style=social&label=Star)](https://github.com/robertcsordas/moe)<br>[Approximating Two-Layer Feedforward Networks for Efficient Transformers](https://arxiv.org/pdf/2310.10837.pdf) | Here we introduce several novel perspectives on MoEs, presenting a general framework that unifies various methods to ap- proximate two-layer NNs (e.g., feedforward blocks of Transformers), including product- key memories (PKMs). Leveraging insights from this framework, we propose methods to improve both MoEs and PKMs. Unlike prior work that compares MoEs with dense baselines under the compute-equal condition, our evaluation condition is parameter-equal, which is crucial to properly evaluate LMs.  | [Github](https://github.com/robertcsordas/moe) <br> [Paper](https://arxiv.org/pdf/2310.10837.pdf)|
+|[Learn To be Efficient: Build Structured Sparsity in Large Language Models](https://arxiv.org/pdf/2402.06126.pdf) @ UIUC, CMU | ∅ | Feb-24
+|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf) @ OpenAI | ∅ | Apr-19
 <br/>
 
 
-## Related Repos
+## Reviews
+
+
+## Awesome Related Repos
 
 [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM)
+[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 <br/><br/><br/>
 
