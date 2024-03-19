@@ -9,6 +9,7 @@ Collection of papers, algorithms, and other resources that show how sparsity eme
 ### Table of Contents 
 - [Emergent Sparsity](#Emergent-Sparsity)
 - [Training for Sparsity](#training-to-be-sparse)
+- [Dynamic Sparsity](#dynamic-sparsity)
 - [Review Papers](#review-papers)
 
 ## Emergent Sparsity
@@ -31,6 +32,17 @@ Collection of papers, algorithms, and other resources that show how sparsity eme
 |[Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf) @ OpenAI | TBA | ∅ | Apr-19
 <br/>
 
+
+## Dynamic Sparsity
+<div id="dynamic-sparsity"></div>
+
+**Dynamic Sparsity is using only the most important small subset of weights w.r.t. a specific input**
+
+
+| Paper | Summary | Venue | Date |
+|:------|:-------|:----:|:----:|
+|[![Star](https://img.shields.io/github/stars/FMInference/DejaVu.svg?style=social&label=Star)](https://github.com/FMInference/DejaVu)<br>[Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://arxiv.org/pdf/2310.17157.pdf) | Predict contextual (dynamic) sparsity on the fly during inference time | ICML | Jan-23
+<br/>
 
 ## Review Papers
 <div id="review-papers"></div>
