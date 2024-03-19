@@ -1,9 +1,15 @@
 # awesome-llm-sparsity
 
-Collection of papers, algorithms, and other resources that show how sparsity emerges in LLMs, and how it can be utilized to optimize them
+Collection of papers, algorithms, and other resources that show how sparsity emerges in LLMs, and how it can be utilized to reduce training and inference time
 
+
+### Table of Contents 
+- [Emergent Sparsity](#Emergent-Sparsity)
+- [Training for Sparsity](#training-to-be-sparse)
+- [Review Papers](#review-papers)
 
 ## Emergent Sparsity
+<div id="Emergent-Sparsity"></div> 
 
 | Paper | Summary | Code | Date |
 |:------|:-------|:----:|:----:|
@@ -12,7 +18,8 @@ Collection of papers, algorithms, and other resources that show how sparsity eme
 <br/>
 
 
-## Sparse Transformers
+## Training to be Sparse
+<div id="training-to-be-sparse"></div>
 
 
 | Paper | Summary | Code | Date |
@@ -23,7 +30,7 @@ Collection of papers, algorithms, and other resources that show how sparsity eme
 
 
 ## Review Papers
-
+<div id="review-papers"></div>
 
 | Paper | Date |
 |:----|  :----: |
