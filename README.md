@@ -4,7 +4,7 @@ Collection of papers, algorithms, and other resources that show how sparsity eme
 
 **Taxonomy**
 ![Sparsity Taxonomy](https://github.com/ariellubonja/awesome-llm-sparsity/blob/main/sparsity-taxonomy.png)
-<small><i>Caption: Original image sourced from [Sparsity in transformers: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S092523122400239X)</i></small>
+<small><i>Original image sourced from [Sparsity in transformers: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S092523122400239X)</i></small>
 
 ### Table of Contents 
 - [Emergent Sparsity](#Emergent-Sparsity)
